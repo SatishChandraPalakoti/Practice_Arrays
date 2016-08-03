@@ -1,0 +1,10 @@
+Native Browser JavaScript
+>>> Pivot:0
+Pivot:0
+53
+Pivot:6
+Pivot:6
+Pivot:7
+Pivot:7
+Pivot:9
+[ 99, 56, 75, 53, 45, 24, 20, 12, 2 ]
